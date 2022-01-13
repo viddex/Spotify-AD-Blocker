@@ -1,2 +1,4 @@
 # Spotify-AD-Blocker
-Blocks the Ads on Spotify
+Simply blocks the Ads inbetween songs.
+## Installation
+Should be pretty straight forward just follow the instructions while your on the program.
